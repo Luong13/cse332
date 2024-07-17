@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="duedate.ComplexLockBasedTests" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-03-08T21:10:08" hostname="TABLET-SPCTGL0A" time="0.064">
+  <properties/>
+  <testcase name="test_getPopulation_leftHalf20x40Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.02"/>
+  <testcase name="test_getPopulation_canada100x500Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_leftHalf100x500Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.002"/>
+  <testcase name="test_getPopulation_rightHalf100x500Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_center100x500Map_correctPopulations()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_hawaii100x500Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_canada20x40Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_corners100x500Map_correctPopulations()" classname="duedate.ComplexLockBasedTests" time="0.002"/>
+  <testcase name="test_totalPopulation_full20x40Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_full100x500Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_center20x40Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_corners20x40Map_correctPopulations()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_hawaii20x40Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_getPopulation_rightHalf20x40Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.001"/>
+  <testcase name="test_totalPopulation_full100x500Map_correctPopulation()" classname="duedate.ComplexLockBasedTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

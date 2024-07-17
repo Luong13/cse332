@@ -1,0 +1,888 @@
+
+<!doctype html><html class="no-js" lang="en"><head>
+
+
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://n.pr/tech-jobs
+
+-->
+
+
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Why many Americans continue to struggle despite the pandemic lifeline : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow,max-image-preview:large" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2022-01-15" /><link rel="canonical" href="https://www.npr.org/2022/01/15/1071877098/americans-poverty-american-rescue-plan-child-tax-credit" /><meta name="description" content="The government provided Americans with a vital financial lifeline during the pandemic, including through the Child Tax Credit. The help improved lives – but for many it still wasn't enough." /><link rel="alternate" type="application/rss+xml" title="Business" href="https://feeds.npr.org/1006/rss.xml" /><link rel="alternate" type="application/rss+xml" title="The Coronavirus Crisis" href="https://feeds.npr.org/812054919/rss.xml" /><link rel="alternate" type="application/json" title="Business" href="https://feeds.npr.org/feeds/1006/feed.json" /><link rel="alternate" type="application/json" title="The Coronavirus Crisis" href="https://feeds.npr.org/feeds/812054919/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://static-assets.npr.org/static/images/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://static-assets.npr.org/static/images/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://static-assets.npr.org/static/images/favicon/favicon-16x16.png" /><meta property="og:title" content="Why many Americans continue to struggle despite trillions of dollars in pandemic aid" /><meta property="og:url" content="https://www.npr.org/2022/01/15/1071877098/americans-poverty-american-rescue-plan-child-tax-credit" /><meta property="og:type" content="article" /><meta property="og:description" content="The government provided Americans with a vital financial lifeline during the pandemic, including through the Child Tax Credit. The help improved lives – but for many it still wasn't enough." /><meta property="og:image" content="https://media.npr.org/assets/img/2022/01/14/img_0942_wide-a193cf9997bca4b87f59c6364f14d7ac73374f05.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta property="article:content_tier" content="free" /><meta property="article:opinion" content="false" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Why many Americans continue to struggle despite trillions of dollars in pandemic aid" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2022/01/14/img_0942_wide-a193cf9997bca4b87f59c6364f14d7ac73374f05.jpg?s=1400" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"readingServiceHostname":"https:\/\/reading.api.npr.org","cookieDomain":".npr.org"};
+NPR.serverVars = {"storyId":"1071877098","isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/bundles.npr.org\/dist\/bundles\/","persistenceVersion":"9d634dac89c40088a15079526776e0e5","isBuildOut":true,"topicIds":["P1006","1001","1002","1003"],"primaryTopic":"Business","topics":["Business","News","Home Page Top Stories","National"],"theme":"812054919","programId":"Weekend Edition Saturday","program":"7","aggIds":["7","1001","1002","1003","1006","132733308","136201345","140428983","155111283","191676894","434975886","561688659","624244634","812054919","812557338","957236286","1073331194"],"tagIds":["American Rescue Plan","Mississippi","Mississippi Delta","child tax credit","poverty"],"byline":["Stephan Bisaha"],"contentPartnerOrg":"Gulf Newsroom","contentPartnerOrgFullName":"4780111 | Gulf Newsroom","pubDate":"2022011505","pageTypeId":"1","title":"Why many Americans continue to struggle despite trillions of dollars in pandemic aid","publisherOrgId":"4780111"};
+</script>
+<script type="text/javascript" src="https://static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script type="text/javascript" async src="https://js.stripe.com/v3/">
+   </script>
+<script>
+   !function(e){function r(r){for(var a,o,f=r[0],d=r[1],u=r[2],i=0,l=[];i<f.length;i++)o=f[i],Object.prototype.hasOwnProperty.call(n,o)&&n[o]&&l.push(n[o][0]),n[o]=0;for(a in d)Object.prototype.hasOwnProperty.call(d,a)&&(e[a]=d[a]);for(b&&b(r);l.length;)l.shift()();return c.push.apply(c,u||[]),t()}function t(){for(var e,r=0;r<c.length;r++){for(var t=c[r],a=!0,f=1;f<t.length;f++){var d=t[f];0!==n[d]&&(a=!1)}a&&(c.splice(r--,1),e=o(o.s=t[0]))}return e}var a={},n={0:0},c=[];function o(r){if(a[r])return a[r].exports;var t=a[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,o),t.l=!0,t.exports}o.e=function(e){var r=[],t=n[e];if(0!==t)if(t)r.push(t[2]);else{var a=new Promise((function(r,a){t=n[e]=[r,a]}));r.push(t[2]=a);var c,f=document.createElement("script");f.charset="utf-8",f.timeout=120,o.nc&&f.setAttribute("nonce",o.nc),f.src=function(e){return o.p+""+e+"."+{1:"4bc794ee336824b045d1",2:"32188d705ded7f7a930d",3:"e8374fdf7e0604949141",4:"29f80b8f228f724984c3",5:"7906a2b0536c15a32061",6:"fa8c4bb4f452dd97c13d",7:"c0f9afbdcb766650b04b",8:"5fe0e0514a1d13c38254",71:"0af566b36bf56b651951",72:"8838f6aa9b7a29182a83",73:"3d63e9250dbaa8ccda6e",74:"ddb0a5e396aa97dcd3b2",75:"8da674aaa8072f02adfa",76:"c5774da93194195e7875",77:"3086d61106da2df36bdc",78:"44241828ca580c97ed15",79:"986b95b08a6e2c5e65af",80:"668132a608a967d90ef4",81:"de56e99d63c9fcbd72f2",82:"753485cccec9b17f36f6",83:"36e7a1ffe406545f17d6",84:"c4db21e3bc0352b9ba5b",85:"63c7d402ae9774c7d4f8",86:"d789596276eac3ca9fba",87:"a338dcf00d5eb497d313",88:"9220b4ebcbc505072773",89:"9d4a3632b26bf1421f24",90:"7ed84343fa3c4beff47e",91:"1fe4a906f7cc996ce535",92:"5af7958e47dc8ef713b5",93:"634f5a7c5500069303aa",94:"647c54b255ff5899e896",95:"22034a9cea4d52a2a99a",96:"683caabcd065dde833b7",97:"dddfb374b716cbee863b",98:"0c145f85e9522bb01080"}[e]+".chunk.js"}(e);var d=new Error;c=function(r){f.onerror=f.onload=null,clearTimeout(u);var t=n[e];if(0!==t){if(t){var a=r&&("load"===r.type?"missing":r.type),c=r&&r.target&&r.target.src;d.message="Loading chunk "+e+" failed.\n("+a+": "+c+")",d.name="ChunkLoadError",d.type=a,d.request=c,t[1](d)}n[e]=void 0}};var u=setTimeout((function(){c({type:"timeout",target:f})}),12e4);f.onerror=f.onload=c,document.head.appendChild(f)}return Promise.all(r)},o.m=e,o.c=a,o.d=function(e,r,t){o.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},o.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},o.t=function(e,r){if(1&r&&(e=o(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(o.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var a in e)o.d(t,a,function(r){return e[r]}.bind(null,a));return t},o.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return o.d(r,"a",r),r},o.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},o.p="/dist/bundles/",o.oe=function(e){throw console.error(e),e};var f=window.webpackJsonp=window.webpackJsonp||[],d=f.push.bind(f);f.push=r,f=f.slice();for(var u=0;u<f.length;u++)r(f[u]);var b=d;t()}([]);
+</script>
+<script type="text/javascript" src="https://bundles.npr.org/dist/bundles/31.6948f0debc02c3bda966.chunk.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/persistent-css-8db9d818a7209c223cd5.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 768px)" href="https://bundles.npr.org/dist/bundles/persistent_medium-css-8db9d818a7209c223cd5.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 1025px)" href="https://bundles.npr.org/dist/bundles/persistent_large-css-8db9d818a7209c223cd5.css" /><link rel="preload" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/fonts-css-8db9d818a7209c223cd5.css" as="style" onload="this.onload=null;this.rel='stylesheet'"  /><link rel="stylesheet" media="screen, print" href="https://bundles.npr.org/dist/bundles/newsStory-css-8db9d818a7209c223cd5.css" /><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"Gulf Newsroom","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo.jpg"}},"headline":"Why many Americans continue to struggle despite trillions of dollars in pandemic aid","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"},"datePublished":"2022-01-15T05:01:00-05:00","dateModified":"2022-01-15T05:01:00-05:00","author":{"@type":"Person","name":["Stephan Bisaha"]},"description":"The government provided Americans with a vital financial lifeline during the pandemic, including through the Child Tax Credit. The help improved lives \u2013 but for many it still wasn't enough.","image":[{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2022\/01\/14\/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2022\/01\/14\/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2022\/01\/14\/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328.jpg"}],"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+</head><body id="news" class="news tmplNewsStory  story-layout is-buildout no-transcript  id1071877098  " data-pjax-modules="util/env images/lazy-load metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts we-are-hiring ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement swfbuilder contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout social/recaptcha">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header">
+<nav class="navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation">
+        <ul class="navigation__top-level">
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu">
+                    Open Navigation Menu
+                </button>
+            </li>
+
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo">
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu">
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo">Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news">News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer">Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li class="submenu__item"><a href="/sections/climate/" data-metrics-action="click climate">Climate</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race">Race</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--arts-life menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle arts drawer">Expand/collapse submenu for Arts &amp; Life</button>
+                    </div>
+
+                    <ul class="submenu submenu--arts-life">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television">Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                        <li class="submenu__item"><a href="/lifekit" data-metrics-action="click life kit">Life Kit</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music">Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/960761716/best-music-of-2021" data-metrics-action="click best music of 2021">
+        Best Music Of 2021
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/1002643619/now-playing" data-metrics-action="click #nowplaying">
+        #NowPlaying
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions">
+        Live Sessions
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/podcasts-and-shows" data-metrics-action="click podcasts & shows">Podcasts &amp; Shows</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle podcasts &amp; shows drawer">Expand/collapse submenu for Podcasts &amp; Shows</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition">
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" loading="lazy" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered">
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" loading="lazy" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air">
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" loading="lazy" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first" data-metrics-action="click up first">
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2" loading="lazy" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510338/all-guides" data-metrics-action="click life kit">
+        <img src="https://media.npr.org/assets/img/2020/12/21/lifekit_tile_3000x3000_sq-db543f43aad9926a756b383d50f89e6f58466b48.png?s=100" loading="lazy" alt="" />
+        Life Kit
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510282/pop-culture-happy-hour" data-metrics-action="click pop culture happy hour">
+        <img src="https://media.npr.org/assets/img/2021/03/22/pchh_podcast-tile-21_sq-146e999c9a61757e4c538f87d49f2114f7b551ab.jpg?s=100" loading="lazy" alt="" />
+        Pop Culture Happy Hour
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510333/throughline" data-metrics-action="click throughline">
+        <img src="https://media.npr.org/assets/img/2019/01/28/nprthroughline_podcasttile_sq-1ee44f340b2703c3e77b5a6ba72b87ce3b66046e.png?s=100" loading="lazy" alt="" />
+        Throughline
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510365/the-limits-with-jay-williams" data-metrics-action="click the limits with jay williams">
+        <img src="https://media.npr.org/assets/img/2021/11/22/the-limits-with-jay-williams_podcast-tile-small_sq-e08ec1941fc600b50872cd3ca635499cb867929b.jpg?s=100" loading="lazy" alt="" />
+        The Limits with Jay Williams
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/podcasts-and-shows" data-metrics-action="click podcasts & shows">More Podcasts &amp; Shows</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search" id="navigation_dropdown-search" data-metrics-action="click search">Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo">
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo"  alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/960761716/best-music-of-2021" data-metrics-action="click best music of 2021">
+        Best Music Of 2021
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/1002643619/now-playing" data-metrics-action="click #nowplaying">
+        #NowPlaying
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions">
+        Live Sessions
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr">About NPR</a></li>
+                <li class="menu__item menu__item--about-diversity"><a href="/diversity/" data-metrics-action="click diversity">Diversity</a></li>
+                <li class="menu__item menu__item--about-organization"><a href="/organization/" data-metrics-action="click organization">Organization</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support">Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers">Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect">Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press">Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics">Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Why many Americans continue to struggle despite the pandemic lifeline</b>   <b data-is-speakable>The government provided Americans with a vital financial lifeline during the pandemic, including through the Child Tax Credit. The help improved lives – but for many it still wasn't enough.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics='{"category":"The Coronavirus Crisis"}' ><div class="branding branding--seamus">
+      <a href="https://www.npr.org/series/812054919/the-coronavirus-crisis" data-metrics='{"action":"click branding"}' ><picture><source srcset="https://media.npr.org/assets/img/2020/03/11/c_virus_outbreak_sq-428f510423dae3e930089eb9efa735f4c6b8d9f3-s100-c85.webp" class="branding__image-promo"  type="image/webp" /><source srcset="https://media.npr.org/assets/img/2020/03/11/c_virus_outbreak_sq-428f510423dae3e930089eb9efa735f4c6b8d9f3-s100-c85.jpg" class="branding__image-promo"  type="image/jpeg" /><img src="https://media.npr.org/assets/img/2020/03/11/c_virus_outbreak_sq-428f510423dae3e930089eb9efa735f4c6b8d9f3-s100-c85.jpg" class="branding__image-promo"  alt="The novel coronavirus, first detected at the end of 2019, has caused a global pandemic." /></picture><div class="branding__inner">
+      <b class='branding__lead-in branding__lead-in--series'>Special Series</b>   <h2 class="branding__title">The Coronavirus Crisis</h2>
+   <b class="branding__mini-teaser">Everything you need to know about the global pandemic</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--SEAMUS" -->
+</header>   <section id="main-section"><article class="story"><a id="mainContent"></a><div class="storytitle">
+      <h1>Why many Americans continue to struggle despite trillions of dollars in pandemic aid</h1>
+   <input type="hidden" id="title1071877098" value="Why many Americans continue to struggle despite trillions of dollars in pandemic aid" />
+   <input type="hidden" id="shortTitle1071877098" value="Why many Americans continue to struggle despite trillions of dollars in pandemic aid" />
+   <input type="hidden" id="modelFullUrl1071877098" value="https://www.npr.org/2022/01/15/1071877098/americans-poverty-american-rescue-plan-child-tax-credit" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+      <div class="share-tools share-tools--primary" aria-label="Share tools">
+            <ul>
+                  <li class="share-tools__service share-tools__service--facebook"><button class="fbStory1071877098" data-share-facebook='{"storyId": 1071877098 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+         <li class="share-tools__service share-tools__service--twitter"><button class="story1071877098" data-share-twitter='{"storyId": 1071877098 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+         <li class="share-tools__service share-tools__service--flipboard"><button class="story1071877098" data-share-flipboard='{"storyId": 1071877098 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+         <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='1071877098'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"}' ><b class="share-tools__service-name">Email</b></button></li>
+      </ul>
+   </div>
+   
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+
+<!-- END CLASS="STORY-TOOLS" -->
+<div id="story-meta" class="story-meta has-byline has-org">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2022-01-15T05:01:00-05:00">
+            <span class="date">January 15, 2022</span><span class="time">5:01 AM ET</span>
+    </time>
+</div>      <div class="program-block">
+                  Heard on          <a href="https://www.npr.org/programs/weekend-edition-saturday/2022/01/15/1073331194/weekend-edition-saturday-for-january-15-2022">Weekend Edition Saturday</a>
+      </div>
+      
+<!-- END CLASS="PROGRAM-BLOCK" -->
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div id="storybyline" class="storybyline-wrap linkLocation">
+                  <div class="bucketwrap byline" id="res1071877146" previewTitle="bylines">
+                        <div class="byline-container--block">
+                              <div class="byline byline--block" aria-label="Byline">
+
+  <p class="byline__name byline__name--block">
+    
+      Stephan Bisaha
+    
+  </p>
+
+</div>
+            </div>
+         </div>
+         
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES1071877146" PREVIEWTITLE="BYLINES" -->
+      </div>
+      <div class="partner">
+                  <p><b>From </b>Gulf Newsroom</p>
+      </div>
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE HAS-ORG" -->
+<div id="primaryaudio" class="storylocation linkLocation">
+      <article id="res1073331411" class="bucketwrap resaudio primaryaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Why many Americans continue to struggle despite trillions of dollars in pandemic aid</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"1071877098:1073331411","available":true,"duration":250,"title":"Why many Americans continue to struggle despite trillions of dollars in pandemic aid","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/wesat\/2022\/01\/20220115_wesat_why_many_americans_continue_to_struggle_despite_trillions_of_dollars_in_pandemic_aid.mp3?orgId=4780111&topicId=1006&aggIds=812054919&d=250&p=7&story=1071877098&dl=1&sc=siteplayer&size=4012453","storyUrl":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit","slug":"Business","program":"Weekend Edition Saturday","affiliation":"Gulf Newsroom","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other","skipSponsorship":false,"hasAdsWizz":false}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220115_wesat_why_many_americans_continue_to_struggle_despite_trillions_of_dollars_in_pandemic_aid.mp3?orgId=4780111&amp;topicId=1006&amp;aggIds=812054919&amp;d=250&amp;p=7&amp;story=1071877098&amp;dl=1&amp;sc=siteplayer&amp;size=4012453&amp;dl=1&amp;aw_0_1st.playerid=siteplayer">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">
+                            
+                            Listen
+                        </b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>4:10</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P4M,10S">
+                  <span class="audio-module-duration__initial-value">4:10</span>
+                </time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_open_more_options&quot;,&quot;storyId&quot;:&quot;1071877098&quot;,&quot;mediaId&quot;:&quot;1073331411&quot;,&quot;title&quot;:&quot;Why many Americans continue to struggle despite trillions of dollars in pandemic aid&quot;,&quot;type&quot;:&quot;ondemand&quot;}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220115_wesat_why_many_americans_continue_to_struggle_despite_trillions_of_dollars_in_pandemic_aid.mp3?orgId=4780111&amp;topicId=1006&amp;aggIds=812054919&amp;d=250&amp;p=7&amp;story=1071877098&amp;dl=1&amp;sc=siteplayer&amp;size=4012453&amp;dl=1&amp;aw_0_1st.playerid=siteplayer"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;1071877098&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_download&quot;,&quot;storyId&quot;:&quot;1071877098&quot;,&quot;mediaId&quot;:&quot;1073331411&quot;,&quot;title&quot;:&quot;Why many Americans continue to struggle despite trillions of dollars in pandemic aid&quot;,&quot;type&quot;:&quot;ondemand&quot;}' ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/1071877098/1073331411"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;1071877098&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_embed&quot;,&quot;storyId&quot;:&quot;1071877098&quot;,&quot;mediaId&quot;:&quot;1073331411&quot;,&quot;title&quot;:&quot;Why many Americans continue to struggle despite trillions of dollars in pandemic aid&quot;,&quot;type&quot;:&quot;ondemand&quot;}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/1071877098/1073331411&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/1071877098/1073331411" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/transcripts/1071877098"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;1071877098&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_click_transcript&quot;,&quot;storyId&quot;:&quot;1071877098&quot;,&quot;mediaId&quot;:&quot;1073331411&quot;,&quot;title&quot;:&quot;Why many Americans continue to struggle despite trillions of dollars in pandemic aid&quot;,&quot;type&quot;:&quot;ondemand&quot;}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+</div>
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res1073230125" class="bucketwrap image large">
+            <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 4029;
+        --source-height: 3022;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s400-c85.webp 400w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s600-c85.webp 600w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s800-c85.webp 800w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s900-c85.webp 900w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1200-c85.webp 1200w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1600-c85.webp 1600w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1800-c85.webp 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/webp" />
+            <source srcset="https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s400-c85.jpg 400w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s600-c85.jpg 600w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s800-c85.jpg 800w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s900-c85.jpg 900w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1200-c85.jpg 1200w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1600-c85.jpg 1600w,
+https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1800-c85.jpg 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/jpeg" />
+            <img src="https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1100-c50.jpg" class="img" alt="" loading="lazy" />
+        </picture>
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Laura Sifuentes lives in Rosedale, Miss. The government's Child Tax Credit, a monthly payment for many American parents with kids, helped her financially when she had to give up her job to care of her kids, nieces and nephews during the pandemic.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Stephan Bisaha/Gulf States Newsroom/Stephan Bisaha/Gulf States Newsroom
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Stephan Bisaha/Gulf States Newsroom/Stephan Bisaha/Gulf States Newsroom
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <picture>
+            <source data-original="https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1200.webp" type="image/webp">
+            <source data-original="https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1200.jpg" type="image/jpeg">
+            <img data-original="https://media.npr.org/assets/img/2022/01/14/img_0942-80ddfc328581eb51bb4bcad606ed6f2bfd3b9dd6-s1200.jpg" alt="" />
+        </picture>
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">Laura Sifuentes lives in Rosedale, Miss. The government's Child Tax Credit, a monthly payment for many American parents with kids, helped her financially when she had to give up her job to care of her kids, nieces and nephews during the pandemic.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Stephan Bisaha/Gulf States Newsroom/Stephan Bisaha/Gulf States Newsroom
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>It's still more than an hour before the Saint Luke's Food Pantry in Tupelo opens, but already more than a dozen cars are lined up in this corner of northeast Mississippi, the state with the highest poverty rate in the country.</p>   <p>By the time volunteers start handing out food in this December morning, six rows of cars will have filled the small lot — with dozens more parked on the road waiting to get in. By noon, the pantry will have served 559 cars. </p>   <p>Volunteer Lee Stratton says it's been like this virtually every day through the pandemic. </p>   <p>"Lot of people coming," Stratton says.<strong> </strong>"People need help, you know?"</p>   <p>Trillions of dollars in government aid flowed to businesses and Americans across the country during the pandemic, including through enhanced food stamps and monthly payments to many families with kids. </p>   <div id="res1073235334" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage974841565" href="https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/coronavirus-live-updates\/2021\/03\/09\/974841565\/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage"}' ><picture><source srcset="https://media.npr.org/assets/img/2021/03/08/gettyimages-1231558869_sq-f9fd6fb450381ca03f62ff8f7828f34547d03196-s100-c15.webp" data-original="https://media.npr.org/assets/img/2021/03/08/gettyimages-1231558869_sq-f9fd6fb450381ca03f62ff8f7828f34547d03196-s100.webp" class="img lazyOnLoad"  type="image/webp" /><source srcset="https://media.npr.org/assets/img/2021/03/08/gettyimages-1231558869_sq-f9fd6fb450381ca03f62ff8f7828f34547d03196-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2021/03/08/gettyimages-1231558869_sq-f9fd6fb450381ca03f62ff8f7828f34547d03196-s100.jpg" class="img lazyOnLoad"  type="image/jpeg" /><img src="https://media.npr.org/assets/img/2021/03/08/gettyimages-1231558869_sq-f9fd6fb450381ca03f62ff8f7828f34547d03196-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2021/03/08/gettyimages-1231558869_sq-f9fd6fb450381ca03f62ff8f7828f34547d03196-s100.jpg" class="img lazyOnLoad"  alt="Here's What's In The American Rescue Plan" loading="lazy" /></picture></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/politics/">Politics </a></h3>
+            <h3><a href="https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/coronavirus-live-updates\/2021\/03\/09\/974841565\/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage"}' >Here's What's In The American Rescue Plan</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES1073235334" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <div id="res1073235507" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage997698543" href="https://www.npr.org/2021/05/17/997698543/new-monthly-child-tax-checks-will-hit-bank-accounts-july-15-what-you-need-to-kno"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2021\/05\/17\/997698543\/new-monthly-child-tax-checks-will-hit-bank-accounts-july-15-what-you-need-to-kno"}' ><picture><source srcset="https://media.npr.org/assets/img/2021/05/17/ap_21070700763208_sq-8aa256789de9e1a52523cc68861befc61919d07d-s100-c15.webp" data-original="https://media.npr.org/assets/img/2021/05/17/ap_21070700763208_sq-8aa256789de9e1a52523cc68861befc61919d07d-s100.webp" class="img lazyOnLoad"  type="image/webp" /><source srcset="https://media.npr.org/assets/img/2021/05/17/ap_21070700763208_sq-8aa256789de9e1a52523cc68861befc61919d07d-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2021/05/17/ap_21070700763208_sq-8aa256789de9e1a52523cc68861befc61919d07d-s100.jpg" class="img lazyOnLoad"  type="image/jpeg" /><img src="https://media.npr.org/assets/img/2021/05/17/ap_21070700763208_sq-8aa256789de9e1a52523cc68861befc61919d07d-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2021/05/17/ap_21070700763208_sq-8aa256789de9e1a52523cc68861befc61919d07d-s100.jpg" class="img lazyOnLoad"  alt="New Monthly Child Tax Credits Are Starting To Go Out. Here's What It Means For You" loading="lazy" /></picture></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/national/">National </a></h3>
+            <h3><a href="https://www.npr.org/2021/05/17/997698543/new-monthly-child-tax-checks-will-hit-bank-accounts-july-15-what-you-need-to-kno"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2021\/05\/17\/997698543\/new-monthly-child-tax-checks-will-hit-bank-accounts-july-15-what-you-need-to-kno"}' >New Monthly Child Tax Credits Are Starting To Go Out. Here's What It Means For You</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES1073235507" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>For many families, it was a substantial financial lifeline, helping them put more food on the table, afford more necessities or pay down debt.</p>   <p>Yet scenes such as the one in Saint Luke's Food Pantry are a sign of how struggling Americans continue to need help despite that government assistance — especially at a time when inflation has surged to its highest in around 40 years.</p>   <p>Take Faith Spearman, who was one of the people waiting in line for food at the pantry. </p>   <aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-News_Business" class="ad-backstage" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE","sponsor_content":"npr_sponsor_content","default_secondary":"NPRSecondary","mobile_secondary":"NPRMobileSecondary"},"zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1071877098","program":"Weekend_Edition_Saturday","agg":["812054919","812557338","624244634","155111283","191676894","434975886"]},"location":"backstage","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}'></div>
+
+</aside>   <p>Spearman says she's better off than before the pandemic, in large part due to a hike in benefits last year from the Supplemental Nutrition Assistance Program, more commonly known as SNAP. </p>   <p>The increase in SNAP, one of the most widely used federal welfare programs, allows her son to buy his favorite juice.</p>   <p>"Just to see him smile and know, 'Hey, my momma got me this at the store. This is what I really wanted.' That make me feel good," Spearman said. </p>   <p>Yet she still doesn't make enough to cover a month's worth of groceries her family with her $10.75-an-hour job working the customer service lines for DirecTV from home. </p>   <div id="res1073231850" class="bucketwrap image large">
+            <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 3019;
+        --source-height: 2264;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s400-c85.webp 400w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s600-c85.webp 600w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s800-c85.webp 800w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s900-c85.webp 900w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1200-c85.webp 1200w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1600-c85.webp 1600w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1800-c85.webp 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/webp" />
+            <source srcset="https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s400-c85.jpg 400w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s600-c85.jpg 600w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s800-c85.jpg 800w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s900-c85.jpg 900w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1200-c85.jpg 1200w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1600-c85.jpg 1600w,
+https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1800-c85.jpg 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/jpeg" />
+            <img src="https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1100-c50.jpg" class="img" alt="" loading="lazy" />
+        </picture>
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Cars line up to receive food and supplies at the Saint Luke's Food Pantry in Tupelo, Miss., on Dec. 2, 2021. Despite trillions in government aid, many Americans still require help to make ends meet.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Stephan Bisaha/Gulf States Newsroom/Stephan Bisaha/Gulf States Newsroom
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Stephan Bisaha/Gulf States Newsroom/Stephan Bisaha/Gulf States Newsroom
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <picture>
+            <source data-original="https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1200.webp" type="image/webp">
+            <source data-original="https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1200.jpg" type="image/jpeg">
+            <img data-original="https://media.npr.org/assets/img/2022/01/14/img_0996-48336fa67e6bdbcf2c4ad02094f91435550c6bf2-s1200.jpg" alt="" />
+        </picture>
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">Cars line up to receive food and supplies at the Saint Luke's Food Pantry in Tupelo, Miss., on Dec. 2, 2021. Despite trillions in government aid, many Americans still require help to make ends meet.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Stephan Bisaha/Gulf States Newsroom/Stephan Bisaha/Gulf States Newsroom
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <h3 class="edTag">One financial step forward – and two steps back</h3>   <p>Over the long-term, experts say the financial aid like enhanced food stamps will help improve lives.</p>   <p>But with the pandemic still lingering as the omicron variant continues to spread across the country, families find that the help is often still not enough.</p>   <p>"Long term we will see the policy shifts will benefit families. But where we are right now we can't say that because we still are in the pandemic," said Aisha Nyandoro, CEO of Springboard To Opportunities, a charity helping families living in Jackson's affordable housing. </p>   <aside id="ad-secondary-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-secondary-News_Business" class="ad-secondary" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE","sponsor_content":"npr_sponsor_content","default_secondary":"NPRSecondary","mobile_secondary":"NPRMobileSecondary"},"zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1071877098","program":"Weekend_Edition_Saturday","agg":["812054919","812557338","624244634","155111283","191676894","434975886"]},"location":"secondary","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}'></div>
+
+</aside>   <p>Sometimes, there can even be unintended consequences.</p>   <p>The increase in SNAP unveiled in October was seen as a cause for celebration by many advocates in the fight against hunger. It marked the first time <a href="https://www.usda.gov/media/press-releases/2021/08/16/usda-modernizes-thrifty-food-plan-updates-snap-benefits">purchasing power</a> with the plan was actually increased since 1975. Previous increases to the program were done solely to catch up with inflation. </p>   <p>But how much people receive from the program is determined by how much they make, leading some families to see their benefits decrease this year.</p>   <div id="res1073235614" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage1036973443" href="https://www.npr.org/2021/09/14/1036973443/poverty-rate-2020-government-aid-census-bureau-median-income"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2021\/09\/14\/1036973443\/poverty-rate-2020-government-aid-census-bureau-median-income"}' ><picture><source srcset="https://media.npr.org/assets/img/2021/09/14/gettyimages-1316117279_sq-36b97602398e556b7e37a02290313bed1664368f-s100-c15.webp" data-original="https://media.npr.org/assets/img/2021/09/14/gettyimages-1316117279_sq-36b97602398e556b7e37a02290313bed1664368f-s100.webp" class="img lazyOnLoad"  type="image/webp" /><source srcset="https://media.npr.org/assets/img/2021/09/14/gettyimages-1316117279_sq-36b97602398e556b7e37a02290313bed1664368f-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2021/09/14/gettyimages-1316117279_sq-36b97602398e556b7e37a02290313bed1664368f-s100.jpg" class="img lazyOnLoad"  type="image/jpeg" /><img src="https://media.npr.org/assets/img/2021/09/14/gettyimages-1316117279_sq-36b97602398e556b7e37a02290313bed1664368f-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2021/09/14/gettyimages-1316117279_sq-36b97602398e556b7e37a02290313bed1664368f-s100.jpg" class="img lazyOnLoad"  alt="Poverty Declined In 2020, The Result Of Government Aid, Census Bureau Reports" loading="lazy" /></picture></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/national/">National </a></h3>
+            <h3><a href="https://www.npr.org/2021/09/14/1036973443/poverty-rate-2020-government-aid-census-bureau-median-income"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2021\/09\/14\/1036973443\/poverty-rate-2020-government-aid-census-bureau-median-income"}' >Poverty Declined In 2020, The Result Of Government Aid, Census Bureau Reports</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES1073235614" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>Experts call this a benefit cliff — when someone on welfare starts earning more money, the loss in government aid that's triggered can actually make that person worse off financially. </p>   <p>Among those who have fallen in that category is Ashanti Mundy from Guntown, Miss. </p>   <p>McDonald's raised her pay to $11 per hour this year — a welcome consequence of the country's tight labor market. </p>   <p>But that very same extra pay caused her SNAP benefits to decline, meaning Mundy took a financial step forward, only to then have to take another step – or two – back.</p>   <p>"It helps," Mundy said of the SNAP benefits. "Don't get me wrong, it helps. But in all it's still keeping you [stagnant]." </p>   <div id="res1073234233" class="bucketwrap image large">
+            <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 5145;
+        --source-height: 3859;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s400-c85.webp 400w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s600-c85.webp 600w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s800-c85.webp 800w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s900-c85.webp 900w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1200-c85.webp 1200w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1600-c85.webp 1600w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1800-c85.webp 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/webp" />
+            <source srcset="https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s400-c85.jpg 400w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s600-c85.jpg 600w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s800-c85.jpg 800w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s900-c85.jpg 900w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1200-c85.jpg 1200w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1600-c85.jpg 1600w,
+https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1800-c85.jpg 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/jpeg" />
+            <img src="https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1100-c50.jpg" class="img" alt="" loading="lazy" />
+        </picture>
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                President Biden signs the American Rescue Plan on March 11, 2021, in the Oval Office of the White House in Washington, D.C. The bill was one of several pieces of legislations passed by Congress to provide help to Americans during the pandemic.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Mandel Ngan/AFP via Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Mandel Ngan/AFP via Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <picture>
+            <source data-original="https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1200.webp" type="image/webp">
+            <source data-original="https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1200.jpg" type="image/jpeg">
+            <img data-original="https://media.npr.org/assets/img/2022/01/14/gettyimages-1231651368-b71575ac60620ec007e29b67f6b8fb3fbe3e5328-s1200.jpg" alt="" />
+        </picture>
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">President Biden signs the American Rescue Plan on March 11, 2021, in the Oval Office of the White House in Washington, D.C. The bill was one of several pieces of legislations passed by Congress to provide help to Americans during the pandemic.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Mandel Ngan/AFP via Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <h3 class="edTag">Child Tax Credit stuck in limbo</h3>   <p>Another program that received a lot of praise from poverty advocates is the Child Tax Credit, a Biden administration initiative that was <a href="https://www.npr.org/2021/05/17/997698543/new-monthly-child-tax-checks-will-hit-bank-accounts-july-15-what-you-need-to-kno">approved</a> by Congress as part of the American Rescue Plan in March.</p>   <p>In July, the program began sending monthly payments to families based on the number of children and their age — $300 a month for each child under six and $250 a month for every other child under 18. Parents will also get an additional lump-sum payment when they file their taxes this year. </p>   <p>The Center on Poverty & Social Policy at Columbia University credits the Child Tax Credit as a major reason why the U.S poverty rate fell 2 percentage points  from June to July, or right after the first payment started going out.</p>   <p>Nyandoro, the CEO of the charity Springboard to Opportunity, recalls the excitement of a mother who was due to receive the Child Tax Credit.</p>   <p>"She talked about how this was the first time ... she would be able to take her kids to the store to pick out their backpacks, because they were getting ready for back to school time," Nyandoro recalled. </p>   <div id="res1073235705" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage1069143123" href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2021\/12\/30\/1069143123\/expanded-child-tax-credit-expires-friday-congress"}' ><picture><source srcset="https://media.npr.org/assets/img/2021/12/30/ap21349765768717_sq-fd8f5f51cc46b0d10f2a091c6efed9f6b2125e92-s100-c15.webp" data-original="https://media.npr.org/assets/img/2021/12/30/ap21349765768717_sq-fd8f5f51cc46b0d10f2a091c6efed9f6b2125e92-s100.webp" class="img lazyOnLoad"  type="image/webp" /><source srcset="https://media.npr.org/assets/img/2021/12/30/ap21349765768717_sq-fd8f5f51cc46b0d10f2a091c6efed9f6b2125e92-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2021/12/30/ap21349765768717_sq-fd8f5f51cc46b0d10f2a091c6efed9f6b2125e92-s100.jpg" class="img lazyOnLoad"  type="image/jpeg" /><img src="https://media.npr.org/assets/img/2021/12/30/ap21349765768717_sq-fd8f5f51cc46b0d10f2a091c6efed9f6b2125e92-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2021/12/30/ap21349765768717_sq-fd8f5f51cc46b0d10f2a091c6efed9f6b2125e92-s100.jpg" class="img lazyOnLoad"  alt="The expanded child tax credit expires Friday after Congress failed to renew it" loading="lazy" /></picture></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/family">Family </a></h3>
+            <h3><a href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2021\/12\/30\/1069143123\/expanded-child-tax-credit-expires-friday-congress"}' >The expanded child tax credit expires Friday after Congress failed to renew it</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES1073235705" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>But the program expired at the end of the year, and it has not  been renewed. Democrats want to bring it back this year, but <a href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress">Senator Joe Manchin opposes </a>the current version of the program and wants to add work requirements and an income cap in order to gain his support.</p>   <p>Laura Sifuentes from Rosdale, Miss.,<strong> </strong>says<strong> </strong>the Child Tax Credit provided her with critical help after the pandemic forced her to leave her job with a local Head Start program when schools went virtual and she had to take care of her kids.  </p>   <p>The monthly payments allowed her pay for things like the National Honor Society registration fee for her daughter and new clothes for her growing boys.</p>   <p>"It's a big help because I'm able to do more for my children," she said. </p>   <p>But even with the payment, she still had to watch what she spent. And with the payment now gone, she again needs to be even more careful as she looks for a job, one that can hopefully match her previous $12-per-hour job.</p>   <p>"The CTC has been a blessing," Sifuentes said recalling how the Child Tax Credit helped her family. "But now I have to be more smart about the way I shop. "</p>
+</div>
+<div class="tags">
+      <ul>
+            <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/957236286/american-rescue-plan">American Rescue Plan</a></li>
+      <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/561688659/child-tax-credit">child tax credit</a></li>
+      <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/140428983/poverty">poverty</a></li>
+      <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/136201345/mississippi-delta">Mississippi Delta</a></li>
+      <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/132733308/mississippi">Mississippi</a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="TAGS" -->
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory1071877098" data-share-facebook='{"storyId": 1071877098 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story1071877098" data-share-twitter='{"storyId": 1071877098 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story1071877098" data-share-flipboard='{"storyId": 1071877098 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='1071877098'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2022\/01\/15\/1071877098\/americans-poverty-american-rescue-plan-child-tax-credit"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;the-new-normal&quot;,&quot;title&quot;:&quot;New Normal&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The New Normal Newsletter&quot;,&quot;frequency&quot;:&quot;every week&quot;,&quot;shortDescription&quot;:&quot;Find the latest news on the coronavirus crisis and help getting through whatever comes next. Sent twice a week.&quot;,&quot;stickyDescription&quot;:&quot;Sign up for The New Normal newsletter and get the latest news on the coronavirus crisis and more.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2021\/02\/09\/the-new-normal.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/blogs\/thisisnpr\/subnav.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/series\/812054919\/the-coronavirus-crisis&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/series\/812054919\/the-coronavirus-crisis&quot;,&quot;organizationId&quot;:4780111,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;THE-NEW-NORMAL&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;NEW NORMAL&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NEW NORMAL NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;FIND THE LATEST NEWS ON THE CORONAVIRUS CRISIS AND HELP GETTING THROUGH WHATEVER COMES NEXT. SENT TWICE A WEEK.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE NEW NORMAL NEWSLETTER AND GET THE LATEST NEWS ON THE CORONAVIRUS CRISIS AND MORE.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2021\/02\/09\/THE-NEW-NORMAL.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/BLOGS\/THISISNPR\/SUBNAV.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SERIES\/812054919\/THE-CORONAVIRUS-CRISIS&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SERIES\/812054919\/THE-CORONAVIRUS-CRISIS&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:4780111,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"The Coronavirus Crisis"}' ><div class="branding branding--seamus">
+      <a href="https://www.npr.org/series/812054919/the-coronavirus-crisis" data-metrics='{"action":"click branding"}' ><picture><source srcset="https://media.npr.org/assets/img/2020/03/11/c_virus_outbreak_sq-428f510423dae3e930089eb9efa735f4c6b8d9f3-s100-c85.webp" class="branding__image-promo"  type="image/webp" /><source srcset="https://media.npr.org/assets/img/2020/03/11/c_virus_outbreak_sq-428f510423dae3e930089eb9efa735f4c6b8d9f3-s100-c85.jpg" class="branding__image-promo"  type="image/jpeg" /><img src="https://media.npr.org/assets/img/2020/03/11/c_virus_outbreak_sq-428f510423dae3e930089eb9efa735f4c6b8d9f3-s100-c85.jpg" class="branding__image-promo"  alt="The novel coronavirus, first detected at the end of 2019, has caused a global pandemic." /></picture><div class="branding__inner">
+      <b class='branding__lead-in branding__lead-in--series'>Special Series</b>   <h2 class="branding__title">The Coronavirus Crisis</h2>
+   <b class="branding__mini-teaser">Everything you need to know about the global pandemic</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--SEAMUS" -->
+</header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts-and-shows" data-metrics-action="click podcasts & shows">Podcasts &amp; Shows</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org/contact/s/" data-metrics-action="Click Contact & Help">Contact & Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/diversity/" data-metrics-action="Click Diversity">Diversity</a></li>
+                <li class="npr-footer__item"><a href="/ethics/" data-metrics-action="Click Ethics">Ethics</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/sections/npr-extra/" data-metrics-action="Click NPR Extra">NPR Extra</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div>
+</footer><div id="global-stickybar-mount" class="global-stickybar-mount">
+   </div>
+</section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_Business" class="ad-standard" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE","sponsor_content":"npr_sponsor_content","default_secondary":"NPRSecondary","mobile_secondary":"NPRMobileSecondary"},"zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1071877098","program":"Weekend_Edition_Saturday","agg":["812054919","812557338","624244634","155111283","191676894","434975886"]},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[17],{1094:function(e,n,c){e.exports=c(297)},297:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(3),c.e(87),c.e(2),c.e(71)]).then(function(e){c(3),c(1069),c(41),c(103),c(30),c(163),c(123),c(61),c(1070),c(63),c(1071),c(85),c(1072),c(290),c(1073),c(77)}.bind(null,c)).catch(c.oe)}},[[1094,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html><!-- CACHED 1642402231 -->

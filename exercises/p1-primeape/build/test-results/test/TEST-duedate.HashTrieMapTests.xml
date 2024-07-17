@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="duedate.HashTrieMapTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-17T10:16:58" hostname="TABLET-SPCTGL0A" time="0.054">
+  <properties/>
+  <testcase name="test_addFindFindPrefix_fewWords_correct()" classname="duedate.HashTrieMapTests" time="0.051"/>
+  <testcase name="test_delete_fewWords_correct()" classname="duedate.HashTrieMapTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
